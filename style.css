@@ -411,7 +411,7 @@ code {
   padding: .1em .35em;
   font-family: 'Fira Mono';
   color: #fafafa;
-  background-color: #272822;
+  background-color: #e5debe;
   border-radius: 3px;
 }
 
@@ -421,7 +421,7 @@ pre code {
   font-family: 'Fira Mono';
   font-weight: 400;
   overflow-y: hidden;
-  background: #272822;
+  background: #e5debe;
 }
 
 pre .tag,
